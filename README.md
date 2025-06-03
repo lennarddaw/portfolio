@@ -1,19 +1,42 @@
- lennarddaw.com
-This is the source code for my personal portfolio website: lennarddaw.com
+# 🌐 lennarddaw.com
 
-Features
-Responsive, mobile-friendly design
+**Personal portfolio website** showcasing my projects, skills, and background. Built with HTML, CSS, and JavaScript for a responsive and elegant online presence.
 
-Project showcase and contact section
+> 🔗 Live Demo: [https://lennarddaw.com](https://lennarddaw.com)
 
-Clean layout with smooth animations
+---
 
-Built With
-HTML
+## 📸 Preview
 
-CSS
+![Website Screenshot](preview.png)  
+*(Optional: Add a screenshot of your site here)*
 
-JavaScript
+---
 
-Deployment
-Live at: https://lennarddaw.com
+## ✨ Features
+
+- 🖥️ Fully responsive design
+- 📂 Project showcase
+- 📇 Contact section
+- 🌙 Smooth animations and transitions
+- 🧼 Clean, semantic HTML structure
+
+---
+
+## 🛠️ Built With
+
+- HTML5  
+- CSS3  
+- Vanilla JavaScript  
+- [Optional: any framework or library like Tailwind, Bootstrap, etc.]
+
+---
+
+## 🚀 Getting Started
+
+To run the website locally:
+
+```bash
+git clone https://github.com/yourusername/lennarddaw.com.git
+cd lennarddaw.com
+open index.html
