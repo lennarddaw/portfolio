@@ -6,13 +6,6 @@
 
 ---
 
-## 📸 Preview
-
-![Website Screenshot](preview.png)  
-*(Optional: Add a screenshot of your site here)*
-
----
-
 ## ✨ Features
 
 - 🖥️ Fully responsive design
@@ -28,7 +21,6 @@
 - HTML5  
 - CSS3  
 - Vanilla JavaScript  
-- [Optional: any framework or library like Tailwind, Bootstrap, etc.]
 
 ---
 
